@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Changhun-Han !
+- 📖 I have been learning programming since Aug 2020.
 - 👀 I’m interested in Spring-boot !
 - 🌱 I’m currently working as a server developer.
 - 📫 my e-mail is hch4102@gmail.com
