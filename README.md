@@ -1,4 +1,4 @@
-![Changhun-Han's Git Status](https://github-readme-stats.vercel.app/api?username=shirohoo&show_icons=true&theme=dark)
+![Changhun-Han's Git Status]()
 
 - 👋 Hi there, I’m `Changhun-Han` !
 - 🌱 I’m currently working as a `server developer`.
