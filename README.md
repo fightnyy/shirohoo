@@ -10,4 +10,4 @@
 
 <br/>
 
-![Changhun-Han's Git Status](https://github-readme-stats.vercel.app/api?username=shirohoo&show_icons=true)
+![Changhun-Han's Git Status](https://github-readme-stats.vercel.app/api?username=shirohoo&show_icons=true&theme=dark)
