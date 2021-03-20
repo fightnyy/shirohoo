@@ -4,7 +4,7 @@
 <br />
 <br />
 
-- 👋 Hi there, I’m `Changhun-Han` !
+- 👋 Hi there, I’m `Changhun` !
 - 🌱 I’m currently working as a `server developer`.
 - 📖 I have been learn programming since `Aug 2020`.
 - 👀 I’m interested in `Java` and `Spring-Boot` and `JPA` !
