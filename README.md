@@ -27,6 +27,6 @@
 ![SCALA](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=shirohoo&show_icons=true" width="45%px" height="100%" alt="Khan's Git Status"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hch4102" width="45%px" height="100%" alt="Solved.ac Profile">
+<img src="https://github-readme-stats.vercel.app/api?username=shirohoo&show_icons=true" width="45%px" height="100%" alt="Khan's Git Status"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hch4102" width="45%px" height="100%" alt="Solved.ac Profile" align=right>
 <br />
 <br />
