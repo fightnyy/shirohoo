@@ -28,6 +28,11 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=shirohoo&show_icons=true" width="45%px" height="100%" alt="Khan's Git Status"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hch4102" width="45%px" height="100%" alt="Solved.ac Profile" align=right>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shirohoo&show_icons=true" alt="Khan's Git Status">
+</p>
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hch4102" alt="Solved.ac Profile" align=right>
+</p>
 
 <br />
