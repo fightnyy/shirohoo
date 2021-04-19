@@ -32,7 +32,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shirohoo&show_icons=true" alt="Khan's Git Status">
 </p>
 <p align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hch4102" alt="Solved.ac Profile" align=right>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hch4102" alt="Solved.ac Profile">
 </p>
 
 <br />
