@@ -4,12 +4,12 @@
 <br />
 <br />
 
-- 👋 Hi there, I’m `Changhun` !
+- 👋 Hi there, I’m `Khan` !
 - 🌱 I’m currently working as a `server developer`.
 - 📖 I have been learn programming since `Aug 2020`.
 - 👀 I’m interested in `Java` and `Spring-Boot` and `JPA` !
-- 📫 If you want to contact me, please leave me a mail to `hch4102@gmail.com`
+- 📫 If you want to contact me, please leave me a mail to `shirohoo4102@gmail.com`
 
 <br/>
 
-![Changhun-Han's Git Status](https://github-readme-stats.vercel.app/api?username=shirohoo&show_icons=true)
+![Khan's Git Status](https://github-readme-stats.vercel.app/api?username=shirohoo&show_icons=true)
