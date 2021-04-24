@@ -3,7 +3,7 @@
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shirohoo&show_icons=true" alt="'s Git Status">
+  <img src="https://github-readme-stats.vercel.app/api?username=shirohoo&show_icons=true" alt="shirohoo's Git Status">
 </p>
 
 <br />
