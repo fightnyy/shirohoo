@@ -9,12 +9,6 @@
 <br />
 
 <p align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hch4102" alt="Solved.ac Profile">
-</p>
-
-<br />
-
-<p align="center">
   <a href="https://hch4102.tistory.com/">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/blogs/devto.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>
