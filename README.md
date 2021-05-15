@@ -17,7 +17,7 @@
 - 👋 Hi there, I’m `Khan` !
 - 📖 I have been learn programming since `Aug 2020`.
 - 🌱 I’m currently working as a `Server developer`.
-- 👀 My favourites skills : `Java`, `Spring-Boot`, `JPA`
+- 💖 My favourites skills : `Java`, `Spring-Boot`, `JPA`
 - 📫 If you want to contact me, please leave me a mail to `shirohoo4102@gmail.com`
 
 <br/>
