@@ -26,7 +26,13 @@
 <p align="center" >
 <h1 align="center" >😎 Things i code with</h1 >
 <br />
-<h2 align="center" >✨ Docs</h2 >
+<h2 align="center" >✨ Communication</h2 >
+<p align="center" >
+    <img alt="GIT" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img alt="SLACK" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" />
+</p >
+<hr/>
+<h2 align="center" >✨ Documentation</h2 >
 <p align="center" >
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -51,9 +57,6 @@
 <hr/>
 <h2 align="center" >✨ DevOps</h2 >
 <p align="center" >
-    <img alt="GIT" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img alt="SLACK" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" />
-    <br/><br/>
     <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
     <img alt="JENKINS" src="https://img.shields.io/badge/Jenkins-73C3D5?style=for-the-badge&logo=Jenkins&logoColor=white" />
     <img alt="KAFKA" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=Apache_Kafka&logoColor=white" />
