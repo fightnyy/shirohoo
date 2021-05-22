@@ -29,6 +29,7 @@
 <h2 align="center" >✨ Communication</h2 >
 <p align="center" >
     <img alt="GIT" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img alt="NOTION" src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=Notion&logoColor=white" />
     <img alt="SLACK" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" />
 </p >
 <hr/>
