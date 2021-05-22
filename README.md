@@ -67,7 +67,7 @@
     <img alt="LOGSTASH" src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=Logstash&logoColor=white" />
 </p >
 <hr/>
-<h2 align="center" > 😁 I can a little</h2 >
+<h2 align="center" > 😅 I can a little</h2 >
 <p align="center" >
     <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
     <img alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
