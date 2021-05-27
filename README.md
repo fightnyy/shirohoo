@@ -3,7 +3,13 @@
 <br />
 
 <p align="center">
-<a href="https://hch4102.tistory.com/"><img alt="Blog" src ="https://img.shields.io/badge/Blog-000000.svg?&style=for-the-badge&logo=Bloglovin&logoColor=white"/></a> <a href="https://github.com/shirohoo"><img alt="GitHub" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+  <img src="http://commitcombo.com/get?user=shirohoo&theme=Perfume-mini">
+</p>
+
+
+<p align="center">
+<a href="https://hch4102.tistory.com/"><img alt="Blog" src="https://img.shields.io/badge/Blog-000000.svg?&style=for-the-badge&logo=Bloglovin&logoColor=white"/></a> 
+<a href="https://github.com/shirohoo"><img alt="GitHub" src="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 </p>
 
 <br />
