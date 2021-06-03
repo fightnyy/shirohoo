@@ -20,7 +20,7 @@
 
 <br />
 
-- 👋 Hi there, I’m `Khan` !
+- 👋 Hi there, I’m `siro` !
 - 📖 I have been learn programming since `Aug 2020`.
 - 🌱 I’m currently working as a `Server developer`.
 - 💖 My favourites skills : `Java`, `Spring-Boot`, `JPA`
