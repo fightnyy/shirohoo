@@ -19,8 +19,3 @@
 </p>
 
 <br />
-
-<p align="center">
-  
-</p>
-
