@@ -6,7 +6,7 @@
 
 <br />
 
-- 👋 Hi there, I’m `shirohoo (siro)` !
+- 👋 Hi there, I’m `shirohoo` !
 - 📖 I have been learn programming since `Aug 2020`.
 - 🌱 I’m currently working as a `Server developer`.
 - 💖 My favourites skills : `Java`, `Spring Boot`, `Hibernate`
