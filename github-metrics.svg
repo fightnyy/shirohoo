@@ -143,7 +143,7 @@
                         <li>Uses spaces for indentation</li>
                         <li>Has approximately 142.8 characters per line of code written</li>
                         <li>Mostly pushes code around 22:00</li>
-                        <li>Mostly active on Sunday</li>
+                        <li>Mostly active on Tuesday</li>
                     </ul>
                 </div>
             </section>
@@ -277,13 +277,13 @@
                     <h3>Commit activity per day of week</h3>
                     <div class="chart-bars">
                         <div class="entry">
-                            <span class="value">18</span>
-                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">17</span>
+                            <div class="bar" style="height: 47.22222222222222px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             Sun
                         </div>
                         <div class="entry">
-                            <span class="value">7</span>
-                            <div class="bar" style="height: 19.444444444444446px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">8</span>
+                            <div class="bar" style="height: 22.22222222222222px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             Mon
                         </div>
                         <div class="entry">
@@ -318,22 +318,22 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 42.38355167394468%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                            <span class="value">53%</span>
+                            <div class="bar" style="width: 41.97728013085757%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">52%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 26.371906841339158%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 26.11911643413109%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">33%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Java</span>
-                            <div class="bar" style="width: 11.037117903930131%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">14%</span>
+                            <div class="bar" style="width: 11.698168132576468%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">15%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 0.20742358078602618%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.2054353024348658%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
