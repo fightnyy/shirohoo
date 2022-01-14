@@ -12,7 +12,7 @@
       font-family: 'Inter';
       letter-spacing: -0.02em;
     }
-    
+
     .emoji {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"
     }
@@ -146,7 +146,7 @@
       }
     }
   </style>
-  
+
   <defs>
     <style>
       /* cyrillic-ext */
@@ -208,7 +208,6 @@
     </style>
   </defs>
 
-  <!-- typing 1 -->
   <g transform="translate(10, 0)" class="typing-1">
     <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
     <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
@@ -223,16 +222,13 @@
     <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
       <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
     </circle>
-
   </g>
 
-  <!-- Hi, I'm Sigrid Jin -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="159" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm Sigrid Jin</text>
+    <rect width="327" height="42" rx="18.0355" />
+    <text x="15" y="27">Hi, I'm Changhun Han(@SHIROHOO)</text>
   </g>
 
-  <!-- typing 2 -->
   <g transform="translate(10, 48)" class="typing-2">
     <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
     <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
@@ -247,21 +243,18 @@
     <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
       <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
     </circle>
-
   </g>
 
-  <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="425" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I am from Seoul, Korea where it’s supposed to be</text>
-    <text x="15" y="50">29° F (-2° C) and <tspan class="emoji">☀️</tspan> today.</text>
+    <text x="15" y="50">{degF}° F ({degC}° C) and <tspan class="emoji">{weatherEmoji}</tspan> today.</text>
   </g>
 
-  <!-- typing 3 -->
   <g transform="translate(10, 120)" class="typing-3">
-  <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
-  <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
-  <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
+    <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
+    <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
+    <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
 
     <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
       <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
@@ -272,17 +265,14 @@
     <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
       <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
     </circle>
-
   </g>
 
-  <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="459" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I’m eager to challenge new things!</text>
-    <text x="15" y="50">but I’ve been currently mandatory military leave now.</text>
+    <rect width="513" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">I think developers are like craftsmen.</text>
+    <text x="15" y="50">So, I'm doing everything I can to become a good developer.</text>
   </g>
 
-  <!-- typing 4 -->
   <g transform="translate(10, 192)" class="typing-4">
     <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
     <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
@@ -300,20 +290,15 @@
 
   </g>
 
-  <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="415" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">
-      You can find me on
-      <a xlink:href="https://abit.ly/jypthemiracle">https://abit.ly/jypthemiracle</a>
-    </text>
+    <rect width="515" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">After some time, I hope that I will become a great developer.</text>
   </g>
 
-  <!-- typing 5 -->
   <g transform="translate(10, 240)" class="typing-5">
-  <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
-  <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
-  <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
+    <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
+    <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
+    <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
 
     <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
       <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
@@ -327,10 +312,9 @@
 
   </g>
 
-  <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="255" height="66.13" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Stay safe on this pandemic!</text>
-    <text x="15" y="47">Have a great Friday! <tspan class="emoji">👋</tspan></text>
+    <rect width="305" height="66.13" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Thank you for visiting my GitHub.</text>
+    <text x="15" y="47">Have a great {todayDay}! <tspan class="emoji">👋</tspan></text>
   </g>
 </svg>
