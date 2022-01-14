@@ -6,8 +6,4 @@
 
 ![chat_svg](https://github.com/shirohoo/shirohoo/blob/main/chat.svg)
 
-<br />
-
 ![Metrics](https://github.com/shirohoo/shirohoo/blob/main/github-metrics.svg)
-
-<br />
