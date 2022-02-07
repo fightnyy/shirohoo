@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -71,14 +71,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="212.6179704346413" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="212.6179704346413" y="0" width="134.97346856645535" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="347.5914390010967" y="0" width="40.992805136776376" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="388.5842441378731" y="0" width="24.542415361012434" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="413.1266594988855" y="0" width="22.08094640002352" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="435.20760589890904" y="0" width="13.198775681431853" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="448.4063815803409" y="0" width="8.833091123026502" height="8" fill="#ca0f21"/>
-                    <rect mask="url(#languages-bar)" x="457.23947270336737" y="0" width="2.7605272966326497" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="212.65400404022773" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="212.65400404022773" y="0" width="134.91838442744836" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="347.5723884676761" y="0" width="40.999752426176045" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="388.5721408938521" y="0" width="24.546574707061357" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="413.1187156009135" y="0" width="22.084688586593764" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="435.20340418750726" y="0" width="13.201012554806933" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="448.4044167423142" y="0" width="8.834588118416805" height="8" fill="#ca0f21"/>
+                    <rect mask="url(#languages-bar)" x="457.23900486073103" y="0" width="2.7609951392689713" height="8" fill="#f34b7d"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -142,7 +142,7 @@
                 <div class="row">
                     <ul class="habits">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 142.9 characters per line of code written</li>
+                        <li>Has approximately 143.2 characters per line of code written</li>
                         <li>Mostly pushes code around 00:00</li>
                         <li>Mostly active on Friday</li>
                     </ul>
@@ -232,8 +232,8 @@
                         15
                     </div>
                     <div class="entry">
-                        <span class="value">7</span>
-                        <div class="bar" style="height: 31.818181818181817px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                        <span class="value">8</span>
+                        <div class="bar" style="height: 36.36363636363637px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                         16
                     </div>
                     <div class="entry">
@@ -257,8 +257,8 @@
                         20
                     </div>
                     <div class="entry">
-                        <span class="value">4</span>
-                        <div class="bar" style="height: 18.181818181818183px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        <span class="value">3</span>
+                        <div class="bar" style="height: 13.636363636363635px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                         21
                     </div>
                     <div class="entry">
@@ -283,8 +283,8 @@
                             Sun
                         </div>
                         <div class="entry">
-                            <span class="value">7</span>
-                            <div class="bar" style="height: 12.068965517241379px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">8</span>
+                            <div class="bar" style="height: 13.793103448275861px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             Mon
                         </div>
                         <div class="entry">
@@ -293,8 +293,8 @@
                             Tue
                         </div>
                         <div class="entry">
-                            <span class="value">4</span>
-                            <div class="bar" style="height: 6.896551724137931px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">3</span>
+                            <div class="bar" style="height: 5.172413793103448px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             Wed
                         </div>
                         <div class="entry">
@@ -319,18 +319,18 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 39.80489467852858%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">50%</span>
+                            <div class="bar" style="width: 40.79526977087952%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">51%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 24.72356801479024%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">31%</span>
+                            <div class="bar" style="width: 25.338708593697508%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">32%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Java</span>
-                            <div class="bar" style="width: 15.471537306681178%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">19%</span>
+                            <div class="bar" style="width: 13.866021635422964%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">17%</span>
                         </div>
                     </div>
                 </section>
@@ -1489,7 +1489,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>milooy/remote-or-flexible-work-company-in-korea</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">한국에서 원격근무 혹은 자율출퇴근이 되는 회사 리스트를 아카이브합니다</div>
